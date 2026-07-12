@@ -21,6 +21,6 @@ jobs:
         file: ./src/Dockerfile
         push: true
         tags: | 
-          andresramilo /aula-primeira-pipeline:v${{ github.run_number }} 
+          andresramilo /aula-primeira-pipeline:v0 
           andresramilo/aula-primeira-pipeline:latest
 
