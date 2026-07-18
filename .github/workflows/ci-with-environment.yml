@@ -1,4 +1,4 @@
-name: CI-CD Refatorado
+name: CI-CD with Environment
 on:
   push:
   workflow_dispatch:

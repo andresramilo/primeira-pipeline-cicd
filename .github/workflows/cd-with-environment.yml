@@ -1,4 +1,4 @@
-name: Deploy No Kubernetes
+name: Deploy No Kubernetes With Environment
 on:
   workflow_call:
     inputs:
