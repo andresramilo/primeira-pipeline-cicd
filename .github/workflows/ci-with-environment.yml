@@ -1,6 +1,6 @@
 name: CI-CD with Environment
 on:
-  #push:
+  push:
   workflow_dispatch:
 jobs:
   CI:
